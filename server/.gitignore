@@ -1,0 +1,36 @@
+# PY
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# VENV
+venv/
+env/
+.venv/
+
+# FRAMEWORK
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# ENV
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TESTING
+.coverage
+htmlcov/
+.pytest_cache/
